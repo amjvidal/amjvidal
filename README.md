@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Mário Vidal!
 
-<div>
-<a href="https://github.com/amjvidal">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjvidal&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=amjvidal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=amjvidal&show_icons=true&theme=gotham)
+
 
 
 <div>
